@@ -2,11 +2,11 @@
   {
 		"name": "金宫",
 		"uniqueTo": "罗马_尼禄",
-		"Culture": 4,
+		"Culture": 5,
 		"replaces": "Opera House",
-		"specialistSlots": {"Artist": 1},
+		"specialistSlots": {"Artist": 2},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"Culture": 33},
+		"percentStatBonus": {"culture": 33},
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater"
 	},
