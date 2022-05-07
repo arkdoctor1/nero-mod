@@ -2,12 +2,12 @@
   {
 		"name": "金宫",
 		"uniqueTo": "罗马_尼禄",
-		"Culture": 7,
+		"culture": 7,
 		"replaces": "Hermitage",
 		"specialistSlots": {"Artist": 3},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"culture": 50},
-	  	"greatPersonPoints": {"culture": 5},
+	  	"greatPersonPoints": {"Great Artist": 5},
 		"requiredTech": "Architecture",
 		"requiredBuilding": "Amphitheater"
 	},
