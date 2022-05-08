@@ -16,4 +16,20 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "乌鸦战舰",
+		"unitType": "Naval Melee",
+		"replaces": "Caravel",
+		"uniqueTo": "罗马_尼禄",
+		"movement": 4,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": [""],
+		"promotions": ["Boarding Party I"],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhitt"
+	},
 ]
