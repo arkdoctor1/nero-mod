@@ -24,7 +24,7 @@
 		"movement": 4,
 		"strength": 12,
 		"cost": 45,
-		"requiredTech": "Sailling",
+		"requiredTech": "Sailing",
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"uniques": ["[+1] Sight"],
