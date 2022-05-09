@@ -12,7 +12,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"uniques": ["+[33]% combat bonus in [Hill]"],
-		"promotions": ["Medic","March"],
+		"promotions": ["Home Sweet Home","Quick Study"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
